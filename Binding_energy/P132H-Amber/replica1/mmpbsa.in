@@ -1,0 +1,11 @@
+sample input file for running alanine scanning
+ &general
+   startframe=1, endframe=10000, interval=5,
+   verbose=1, entropy =0
+/
+&gb
+  saltcon=0.150
+/
+&decomp
+  idecomp=1
+/
